@@ -15,3 +15,5 @@ def different(value1,value2):
     return value1 - value2
 
 print(different(b,a))
+
+azbuka = {'a':'apple', 'b': 'ball', 'c':'cilling', 'd': 'dict'}
